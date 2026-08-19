@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_service_description">JARVIS Accessibility Automation Service allows the assistant to execute voice-requested navigation, tap controls, search within supported applications, and perform navigation tasks upon your explicit voice commands.</string>
+    <string name="app_tagline">Next-Gen Autonomous AI Voice Command Center</string>
+    <string name="nav_command_center">Core</string>
+    <string name="nav_routines">Routines</string>
+    <string name="nav_history">History</string>
+    <string name="nav_memory">Memory</string>
+    <string name="nav_permissions">Access</string>
+    <string name="nav_settings">Settings</string>
+</resources>

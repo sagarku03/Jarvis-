@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Next-generation Android AI voice assistant & command center for device control, workflow automation, and voice intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
